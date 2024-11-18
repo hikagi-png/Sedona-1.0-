@@ -2,7 +2,7 @@
 
 * Студент: [{{userName}}]({{userProfile}}).
 * Наставник: [Алексей Симоненко]
-* Сайт [Мой проект Седона] (https://hikagi-png.github.io/Sedona-1.0-/)
+* Сайт [Мой проект Седона](https://hikagi-png.github.io/Sedona-1.0-/)
 
 ---
 
